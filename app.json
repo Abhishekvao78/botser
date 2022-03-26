@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "BOT SER ",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -70,7 +70,7 @@
         },
         "LANGUAGE": {
             "description": "Enter bot language, example EN for English, ID for Bahasa Indonesia, TR for Turkish",
-            "value": "EN"
+            "value": "ML"
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
